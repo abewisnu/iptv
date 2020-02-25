@@ -49,6 +49,10 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/602510488530866176/mos22r3l_400x400.jpg" group-title="INDONESIA",MNC TV CH 2
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/760059668966158336/uyVkDCL3_400x400.jpg" group-title="INDONESIA",MNC Sport CH 1
+https://anevia115.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/760059668966158336/uyVkDCL3_400x400.jpg" group-title="INDONESIA",MNC Sport CH 2
+https://anevia115.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLftZFuRwPjL-hXZTsKX185IFl1CYz1-mquLcE5oSCT8FSIBHx" group-title="INDONESIA",SINEMA INDONESIA
 http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/The_Indonesia_Channel_Logo.jpg" group-title="INDONESIA",Indonesia Chanel
@@ -131,6 +135,8 @@ http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2
 http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/128/870/870885.png" group-title="GLOBAL",AXN (alt 2)
 http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/4/8/a/48a10fec7c1f2875e50e07e1d9806b12_icon.png?w=256" group-title="GLOBAL",BBC EARTH
+https://anevia115.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_1000000=10-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Z4-FZB8IBiY/WxIY_yjw4QI/AAAAAAAAlgE/cKry-W8zVzwLMqOIakOp7ej5cmRYNVHugCLcBGAs/s1600/blue-ant-entertainment-channel-tv-logo.png" group-title="GLOBAL",Blue Ant Entertaiment
 http://45.126.83.51/dr9445/h/h16/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Z4-FZB8IBiY/WxIY_yjw4QI/AAAAAAAAlgE/cKry-W8zVzwLMqOIakOp7ej5cmRYNVHugCLcBGAs/s1600/blue-ant-entertainment-channel-tv-logo.png" group-title="GLOBAL",Blue Ant Extream
@@ -155,10 +161,10 @@ http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b14000
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcJDhuxL2kvGUbxMA0jBfns2n_w0W8Uf_a81EvHia2OSMZsGo6" group-title="GLOBAL",Fox
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQyKN0fH8Yqvvf7foj3nx0DloWYXHzEtwlkbGwMSUY-AvkDlPbd" group-title="GLOBAL",Fox Crime Movies
-https://www.livedoomovie.com/02_FoxCrimeHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnQ6ztpjs2_cL1yL3tsJHAexi3a0pTibiz1WWBtZXNETzguNZg" group-title="GLOBAL",Fox Action Movies
 http://203.207.56.228/live/iptv029.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQyKN0fH8Yqvvf7foj3nx0DloWYXHzEtwlkbGwMSUY-AvkDlPbd" group-title="GLOBAL",Fox Crime Movies
+https://www.livedoomovie.com/02_FoxCrimeHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_15.png" group-title="GLOBAL",Fox Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTM3psL64d5Nl95vV-v2fYfzAKOZiuJq9fkVFf2RxFwpV3qHQ3r" group-title="GLOBAL",Fox Movies
@@ -167,6 +173,8 @@ http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22
 http://203.207.56.228/live/iptv034.m3u8
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3d5-J4gmPqOHH1uSThuHV_F9h5vJTdXpCMwIr4pMt4-OAFT3N" group-title="GLOBAL",Fox Premium 1 HD 
 http://198.255.23.18:2095/streams/166_.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/iaChdOVKqV19gpNOvH45gglKJLg0YY0rY27wFxpe3pj3yyF0EbHhBQGVE0oluHvnNs_vEFSspi6CEHHMyq9ibssGFvLWXxexJ9XpgKwJ" group-title="GLOBAL",Fx Movie
+https://anevia115.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wStqxGK.png" group-title="GLOBAL",HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OxWwDzR.png" group-title="GLOBAL",HBO HD
@@ -217,6 +225,8 @@ http://210.210.155.35:80/session/9ab7f404-73b5-11e9-813d-85409622318e/qwr9ew/s/s
 http://203.153.218.28:9981/stream/channelid/391618553?ticket=08323DCACE84958A87EA829F012E919CA861DF74&profile=pass
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHILMK-k8CaT8GS_H7-enH8hSl0Tw9qpK2_tAejJs6ImaNeypf" group-title="GLOBAL",TV3
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZu779il9Cj_8qtnVsCAdKs)/dm/3/x6qp375/d/live-3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Warner-azul.png/220px-Warner-azul.png" group-title="GLOBAL",Warner TV
+https://anevia115.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSovMo_RdlOrmsAuKmgaN9qs5WKhEs6Mr_7wmsV0MfpvAa6aXRH" group-title="GLOBAL",ZEE BIOSKOP
 http://210.210.155.35:80/session/228f03c8-73b5-11e9-b788-c81f66f89318/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1 group-title="RELIGI",MEKKAH
@@ -329,6 +339,30 @@ http://95.170.215.120:80/hls/m3u8/BeinSport1.m3u8
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/21/9c/50/219c5086-4f44-43d0-ee4e-214ba09b219f/AppIcon-1x_U007emarketing-85-220-9.png/246x0w.jpg" group-title="Bein Sports",beIN Sport 2 HD 
 https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://bemagisterial.com/images/bein-sports-footer-logo.png" group-title="Bein Sports",Bein Sport 1
+http://51.15.8.16:8081/arbiarb/beinsports1/chunks.m3u8?
+#EXTINF:-1 tvg-logo="https://bemagisterial.com/images/bein-sports-footer-logo.png" group-title="Bein Sports",Bein Sport 2
+http://51.15.8.16:8081/arbiarb/beinsports2/chunks.m3u8?
+#EXTINF:-1 tvg-logo="https://bemagisterial.com/images/bein-sports-footer-logo.png" group-title="Bein Sports",Bein Sport 3
+http://51.15.8.16:8081/arbiarb/beinsports3/chunks.m3u8?
+#EXTINF:-1 tvg-logo="https://bemagisterial.com/images/bein-sports-footer-logo.png" group-title="Bein Sports",Bein Sport 4
+http://51.15.8.16:8081/arbiarb/beinsports4/chunks.m3u8?
+#EXTINF:-1 tvg-logo="https://bemagisterial.com/images/bein-sports-footer-logo.png" group-title="Bein Sports",Bein Sport 5
+http://51.15.8.16:8081/arbiarb/beinsports5/chunks.m3u8?
+#EXTINF:-1 tvg-logo="https://bemagisterial.com/images/bein-sports-footer-logo.png" group-title="Bein Sports",Bein Sport 6
+http://51.15.8.16:8081/arbiarb/beinsports6/chunks.m3u8?
+#EXTINF:-1 tvg-logo="https://bemagisterial.com/images/bein-sports-footer-logo.png" group-title="Bein Sports",Bein Sport 7
+http://51.15.8.16:8081/arbiarb/beinsports7/chunks.m3u8?
+#EXTINF:-1 tvg-logo="https://bemagisterial.com/images/bein-sports-footer-logo.png" group-title="Bein Sports",Bein Sport 8
+http://51.15.8.16:8081/arbiarb/beinsports8/chunks.m3u8?
+#EXTINF:-1 tvg-logo="https://bemagisterial.com/images/bein-sports-footer-logo.png" group-title="Bein Sports",Bein Sport 9
+http://51.15.8.16:8081/arbiarb/beinsports9/chunks.m3u8?
+#EXTINF:-1 tvg-logo="https://bemagisterial.com/images/bein-sports-footer-logo.png" group-title="Bein Sports",Bein Sport 10
+http://51.15.8.16:8081/arbiarb/beinsports10/chunks.m3u8?
+#EXTINF:-1 tvg-logo="https://bemagisterial.com/images/bein-sports-footer-logo.png" group-title="Bein Sports",Bein Sport 11
+http://51.15.8.16:8081/arbiarb/beinsports11/chunks.m3u8?
+#EXTINF:-1 tvg-logo="https://bemagisterial.com/images/bein-sports-footer-logo.png" group-title="Bein Sports",Bein Sport 12
+http://51.15.8.16:8081/arbiarb/beinsports12/chunks.m3u8?
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRptcNS-EE2J9lTXt9yhrbx3TPkUJTD401o3uWhLN07bov4xNt8" group-title="Sports Global",Abu Dhabi Sports 1 HD (Opt-1)
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRptcNS-EE2J9lTXt9yhrbx3TPkUJTD401o3uWhLN07bov4xNt8" group-title="Sports Global",Abu Dhabi Sports 1 HD (Opt-2)
