@@ -24,7 +24,7 @@ https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=870
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=778
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCYc7yzg/metrotv.png" group-title="nasional", METROTV
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=777
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/28DMnbbP/logo-net-big1.png" group-title="nasional", NET
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=875
