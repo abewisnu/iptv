@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyWXD5DD/antv.png" group-title="nasional", ANTV
-http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+http://id2.indostreamingtv.com/live/antv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfQYBP49/105261-logo-tvone-665-374.jpg" group-title="nasional", TVONE
-https://iptv-nublltsls-mwafa.vercel.app/api/yt?id=XdZ2nJvmfrI
+http://stream-01.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybEGQe0SyeSwz4bPTFRcY-dY)/dm/3/x619221/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/B6ZFwp58/sctv.png" group-title="nasional", SCTV
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=204
@@ -21,13 +21,22 @@ https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=734
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=870
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="nasional", GTV
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=778
+https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCYc7yzg/metrotv.png" group-title="nasional", METROTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCYc7yzg/metrotv.png" group-title="nasional", METRO TV-1
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/28DMnbbP/logo-net-big1.png" group-title="nasional", NET
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCYc7yzg/metrotv.png" group-title="nasional", METRO TV-2
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28DMnbbP/logo-net-big1.png" group-title="nasional", NET-1
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=875
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28DMnbbP/logo-net-big1.png" group-title="nasional", NET-2
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28DMnbbP/logo-net-big1.png" group-title="nasional", NET-3 
+http://210.210.155.35/qwr9ew/s/s08/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="nasional", INDOSIAR
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=205
@@ -39,7 +48,7 @@ https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=5409
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=1561
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/25hnd6BK/logo-kompastv-small.png" group-title="nasional", KOMPAS TV
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=874
+http://210.210.155.35/session/69927436-1aa3-11ea-a103-acecbc14f551/qwr9ew/s/s104/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cL83ZHTL/logo-tvri-small1.png" group-title="nasional", TVRI
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=6441
